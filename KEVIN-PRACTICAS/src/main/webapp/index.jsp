@@ -38,7 +38,7 @@
    
 
 <body>
-<h2>Agregar Datos</h2>
+<h2>Agregar Culos</h2>
 <table align="center">
 	
    <thead>
